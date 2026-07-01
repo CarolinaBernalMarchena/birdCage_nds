@@ -127,7 +127,7 @@ cage_bg.s cage_bg.h	:	cage_bg.png
 %.s %.h	:	%.png
 #---------------------------------------------------------------------------------
 	@echo $(notdir $<)
-	grit $< -fts -gt -gB8 -gT000000 -m! -o$*
+	grit $< -fts -gt -gB4 -gT000000 -m! -o$*
 
 -include $(DEPENDS)
 

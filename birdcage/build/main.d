@@ -110,8 +110,11 @@ main.o: D:/birdcage/source/main.c D:/devkitPro/libnds/include/nds.h \
  D:/devkitPro/libnds/include/nds/arm9/sprite.h \
  D:/devkitPro/libnds/include/nds/arm9/trig_lut.h \
  D:/devkitPro/libnds/include/nds/arm9/video.h \
- D:/devkitPro/libnds/include/nds/arm9/videoGL.h D:/birdcage/build/bird.h \
- D:/birdcage/build/cage_bg.h
+ D:/devkitPro/libnds/include/nds/arm9/videoGL.h \
+ D:/birdcage/build/bird_orange.h D:/birdcage/build/bird_blue.h \
+ D:/birdcage/build/bird_green.h D:/birdcage/build/toy_bell.h \
+ D:/birdcage/build/perch.h D:/birdcage/build/feeder.h \
+ D:/birdcage/build/drinker.h D:/birdcage/build/cage_bg.h
 D:/devkitPro/libnds/include/nds.h:
 D:/devkitPro/calico/include/calico.h:
 D:/devkitPro/calico/include/calico/types.h:
@@ -225,5 +228,11 @@ D:/devkitPro/libnds/include/nds/arm9/sprite.h:
 D:/devkitPro/libnds/include/nds/arm9/trig_lut.h:
 D:/devkitPro/libnds/include/nds/arm9/video.h:
 D:/devkitPro/libnds/include/nds/arm9/videoGL.h:
-D:/birdcage/build/bird.h:
+D:/birdcage/build/bird_orange.h:
+D:/birdcage/build/bird_blue.h:
+D:/birdcage/build/bird_green.h:
+D:/birdcage/build/toy_bell.h:
+D:/birdcage/build/perch.h:
+D:/birdcage/build/feeder.h:
+D:/birdcage/build/drinker.h:
 D:/birdcage/build/cage_bg.h:

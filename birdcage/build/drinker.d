@@ -1,0 +1,1 @@
+drinker.o: drinker.s
